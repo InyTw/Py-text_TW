@@ -1,7 +1,7 @@
 
 # Python Type-1UP
 
-[**[ZH_Tw Version]**](README.md) || [**[English Version]**](README_EN.md) || [**[Hong-Kong Version]**](README_HK.me)
+[**[ZH_Tw Version]**](README.md) || [**[English Version]**](README_EN.md) || [**[Hong-Kong Version]**](README_HK.md)
 
 這份 README 教你如何在 Windows、macOS 和 Linux 上安裝 Python，並啟動你的  `type-1up.py`。
 
