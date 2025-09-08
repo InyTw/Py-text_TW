@@ -3,6 +3,8 @@
 
 [**[ZH_Tw Version]**](README.md) || [**[English Version]**](README_EN.md) || [**[Hong-Kong Version]**](README_HK.me)
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/InyTw)
+
 This README explains how to install Python on Windows, macOS, and Linux, and how to run your `type-1up.py` script.
 
 ---
