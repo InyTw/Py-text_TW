@@ -1,6 +1,8 @@
 
 # Python Type-1UP
 
+[English Version](README_EN.md)
+
 這份 README 教你如何在 Windows、macOS 和 Linux 上安裝 Python，並啟動你的  `type-1up.py`。
 
 ---
