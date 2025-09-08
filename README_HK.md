@@ -3,6 +3,8 @@
 
 [**[ZH_TW Version]**](README.md) || [**[English Version]**](README_EN.md) || [**[Hong-Kong Version]**](README_HK.md)
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/InyTw)
+
 呢份 README 教你點樣喺 Windows、macOS 同 Linux 上安裝 Python，同埋點樣執行你嘅 `type-1up.py`。
 
 ---
