@@ -3,6 +3,8 @@
 
 [**[ZH_Tw Version]**](README.md) || [**[English Version]**](README_EN.md) || [**[Hong-Kong Version]**](README_HK.md)
 
+Support me on PayPal: [Donate](https://youtu.be/dQw4w9WgXcQ?si=6ICR7aO0sN2TU_V7)
+
 這份 README 教你如何在 Windows、macOS 和 Linux 上安裝 Python，並啟動你的  `type-1up.py`。
 
 ---
